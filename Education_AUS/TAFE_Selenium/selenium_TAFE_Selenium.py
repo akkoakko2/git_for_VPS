@@ -4,6 +4,12 @@ from selenium.webdriver.edge.service import Service
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 import time  # Importing time module for pauses
 
+
+
+
+
+
+
 # List of keywords for search
 keywords = [
     "management", "medical", "engineering", "nail"
